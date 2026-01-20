@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name": "Froe Bros Drilling",
+    "tagline": "Finding Safe Water Solutions for the northland",
+    "description": "Froe Bros Drilling is built on the premise of hard work, quality service, and a commitment to providing optimum water well drilling contractor, hydro fracturing (\"fracking\"), submersible pump installation, and well sealing services to its clients. We are the area's leading pump sale, repair and installation source.",
+    "phone": "218-666-5466",
+    "email": null,
+    "address": "9047 Hwy 115, Cook, MN 55723",
+    "hours": {
+      "monday": "8:00 am - 4:30 pm",
+      "tuesday": "8:00 am - 4:30 pm",
+      "wednesday": "8:00 am - 4:30 pm",
+      "thursday": "8:00 am - 4:30 pm",
+      "friday": "8:00 am - 4:30 pm",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    }
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768941584/auto-site-builder/Froe%20Bros/image_0.png",
+    "primaryColor": "#1e40af",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "Finding Safe Water Solutions for the northland",
+    "subheadline": "WORLD CLASS SERVICES BROUGHT TO YOU BY DRILLING EXPERTS",
+    "cta": {
+      "label": "LEARN MORE",
+      "href": "/about"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661663373098-003886896551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cHJvZmVzc2lvbmFsJTIwd29ya3NwYWNlJTIwY2xlYW58ZW58MHwwfHx8MTc2ODg2NTI3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "Why Choose Us?",
+      "content": "We've been serving the industry for over 3 decades. We provide island and remote access drilling, and do hydro-fracking. We offer top of the line services at competitive prices. Licensed, Bonded and Insured. Our services cover Northern St. Louis County, Koochiching County, Lake of the Woods County, Western Lake County, and Western Itasca County.",
+      "image": "https://plus.unsplash.com/premium_photo-1677529498680-fdb9d5ee762a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGVhbSUyMGNvbGxhYm9yYXRpb24lMjBvZmZpY2V8ZW58MHwwfHx8MTc2ODg2OTU2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [],
+    "ctaButton": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Froe Bros Drilling. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Froe Bros - Home",
+    "description": "Well Drilling in Northern MN"
+  }
+}
